@@ -24,3 +24,7 @@ Yes, as a large language model does not possess the capability of compiling code
 - Parallel port (LPT1) output
 - Custom color backgrounds
 - Software shutdown support
+
+# Run it here
+https://copy.sh/v86/?profile=custom#setup
+Put the ISO file in the CD image button then run it.
